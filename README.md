@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QSDQSB
 - 👀 I’m interested in Statistics.
-- 🌱 I’m currently learning `Foundations of Statistical Inference`, `Martingales`, `Generalised Linear Model`, `Statistical Machine Learning`
+- 🌱 I’m currently learning `Foundations of Statistical Inference`, `Martingales`, `Generalised Linear Model`, `Statistical Machine Learning`, `Information Theory`
 - 🧺 Give me a call if you want someone for Leetcode and Kaggle.
 - 📫 Add my Linkedin at [Jiahe Qiu](https://www.linkedin.com/in/jiahe-qiu/)
 
