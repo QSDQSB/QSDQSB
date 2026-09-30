@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning `State Space Models`.
 - 🧺 Give me a call if you want someone for Leetcode and Kaggle.
 - 🐽 I use *Obsidian* to take notes. Take a look at [OxMaths.obsidian](https://github.com/QSDQSB/OxMaths.obsidian)
-- 📫 Add my Linkedin at [Jiahe Qiu](https://www.linkedin.com/in/jiahe-qiu/). Find my Leetcode at [🧦QSDQSB](https://leetcode.com/QSDQSB/).
+- 📫 Find my Leetcode at [🧦QSDQSB](https://leetcode.com/QSDQSB/). Or reach out to me at [qsdqsb@foxmail.com](mailto:qsdqsb@foxmail.com) !
 
 <!---
 QSDQSB/QSDQSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
